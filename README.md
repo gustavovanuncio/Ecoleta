@@ -1,4 +1,4 @@
- <h1>Ecoleta</h1>
+ <h1>:deciduous_tree: Ecoleta (Rocketseat :rocket:)</h1>
 
 
 ![11111](https://user-images.githubusercontent.com/4576154/83932679-a0921b80-a77a-11ea-88df-926a2100a119.png)
